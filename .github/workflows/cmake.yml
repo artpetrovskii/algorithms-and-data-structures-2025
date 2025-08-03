@@ -6,7 +6,7 @@ on:
   push:
   workflow_dispatch:
 
-env:
+with:
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
   BUILD_TYPE: Release
 
@@ -23,18 +23,18 @@ jobs:
     - name: Configure CMake
       # Configure CMake in a 'build' subdirectory. `CMAKE_BUILD_TYPE` is only required if you are using a single-configuration generator such as make.
       # See https://cmake.org/cmake/help/latest/variable/CMAKE_BUILD_TYPE.html?highlight=cmake_build_type
-      run: cmake -B ${{github.workspace}}/build -DCMAKE_BUILD_TYPE=${{env.BUILD_TYPE}}
+      run: cmake -B ${{github.workspace}}/build -DCMAKE_BUILD_TYPE=${{with.BUILD_TYPE}}
 
     - name: Build
       # Build your program with the given configuration
-      run: cmake --build ${{github.workspace}}/build --config ${{env.BUILD_TYPE}}
+      run: cmake --build ${{github.workspace}}/build --config ${{with.BUILD_TYPE}}
 
     - name: Test
       working-directory: ${{github.workspace}}
       # working-directory: ${{github.workspace}}/build
       # Execute tests defined by the CMake configuration.
       # See https://cmake.org/cmake/help/latest/manual/ctest.1.html for more detail
-      # run: ctest -C ${{env.BUILD_TYPE}}
+      # run: ctest -C ${{with.BUILD_TYPE}}
       run: |
         # echo "build-output-dir=${{ github.workspace }}/build" >> "$GITHUB_OUTPUT"
         pwd
@@ -77,7 +77,9 @@ jobs:
     - name: Deploy report to Github Pages
       if: always()
       uses: peaceiris/actions-gh-pages@v4
-      env:
+      with:
         PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: allure-history
+    - deploy_token: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+    + deploy_key: ${{ secrets.DEPLOY_PRIVATE_KEY }}
