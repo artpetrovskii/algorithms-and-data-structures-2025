@@ -1,0 +1,49 @@
+{
+  "uid" : "5cb65a86a0cbbbc3",
+  "name" : "BasicAssertions",
+  "historyId" : "HelloTest:HelloTest#BasicAssertions",
+  "time" : {
+    "start" : 1754252225658,
+    "stop" : 1754252225658,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "HelloTest"
+  }, {
+    "name" : "testClass",
+    "value" : "HelloTest"
+  }, {
+    "name" : "package",
+    "value" : "HelloTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5cb65a86a0cbbbc3.json",
+  "parameterValues" : [ ]
+}

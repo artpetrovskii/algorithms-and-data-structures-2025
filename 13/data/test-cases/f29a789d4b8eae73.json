@@ -1,0 +1,49 @@
+{
+  "uid" : "f29a789d4b8eae73",
+  "name" : "BalanceAfterOperations",
+  "historyId" : "AVLTreeTest:AVLTreeTest#BalanceAfterOperations",
+  "time" : {
+    "start" : 1754252225804,
+    "stop" : 1754252225804,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "AVLTreeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "AVLTreeTest"
+  }, {
+    "name" : "package",
+    "value" : "AVLTreeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f29a789d4b8eae73.json",
+  "parameterValues" : [ ]
+}

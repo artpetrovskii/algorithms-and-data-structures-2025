@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","LargeTree","","Sun Aug 03 20:17:05 GMT 2025","passed","Sun Aug 03 20:17:05 GMT 2025","","BinaryTreeTest","BinaryTreeTest",""
+"","0","BasicAssertions","","Sun Aug 03 20:17:05 GMT 2025","passed","Sun Aug 03 20:17:05 GMT 2025","","HelloTest","HelloTest",""
+"","0","BasicAssertions","","Sun Aug 03 20:17:05 GMT 2025","passed","Sun Aug 03 20:17:05 GMT 2025","","SampleTest","SampleTest",""
+"","0","BasicAssertions","","Sun Aug 03 20:17:05 GMT 2025","passed","Sun Aug 03 20:17:05 GMT 2025","","NewTest","NewTest",""
+"","0","BalanceAfterOperations","","Sun Aug 03 20:17:05 GMT 2025","passed","Sun Aug 03 20:17:05 GMT 2025","","AVLTreeTest","AVLTreeTest",""
+"","0","PopEmptyStack","","Sun Aug 03 20:17:05 GMT 2025","passed","Sun Aug 03 20:17:05 GMT 2025","","StackTest","StackTest",""
+"","0","DequeueEmptyQueue","","Sun Aug 03 20:17:05 GMT 2025","passed","Sun Aug 03 20:17:05 GMT 2025","","QueueTest","QueueTest",""

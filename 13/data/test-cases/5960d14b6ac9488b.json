@@ -1,0 +1,49 @@
+{
+  "uid" : "5960d14b6ac9488b",
+  "name" : "DequeueEmptyQueue",
+  "historyId" : "QueueTest:QueueTest#DequeueEmptyQueue",
+  "time" : {
+    "start" : 1754252225769,
+    "stop" : 1754252225769,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "QueueTest"
+  }, {
+    "name" : "testClass",
+    "value" : "QueueTest"
+  }, {
+    "name" : "package",
+    "value" : "QueueTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5960d14b6ac9488b.json",
+  "parameterValues" : [ ]
+}
