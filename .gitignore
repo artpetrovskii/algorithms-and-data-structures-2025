@@ -1,0 +1,4 @@
+build/
+allure-report/
+allure-results/
+*.xml
