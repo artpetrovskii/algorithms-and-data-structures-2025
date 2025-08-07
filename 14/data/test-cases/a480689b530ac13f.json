@@ -1,0 +1,69 @@
+{
+  "uid" : "a480689b530ac13f",
+  "name" : "BalanceAfterOperations",
+  "historyId" : "AVLTreeTest:AVLTreeTest#BalanceAfterOperations",
+  "time" : {
+    "start" : 1754567733263,
+    "stop" : 1754567733263,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "AVLTreeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "AVLTreeTest"
+  }, {
+    "name" : "package",
+    "value" : "AVLTreeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b43bc40990e6d969",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/13//#testresult/b43bc40990e6d969",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754252225804,
+          "stop" : 1754252225804,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a480689b530ac13f.json",
+  "parameterValues" : [ ]
+}

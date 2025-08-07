@@ -1,0 +1,69 @@
+{
+  "uid" : "23414effc34f9e3",
+  "name" : "PopEmptyStack",
+  "historyId" : "StackTest:StackTest#PopEmptyStack",
+  "time" : {
+    "start" : 1754567733215,
+    "stop" : 1754567733215,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "StackTest"
+  }, {
+    "name" : "testClass",
+    "value" : "StackTest"
+  }, {
+    "name" : "package",
+    "value" : "StackTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e80ce222516b712",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/13//#testresult/e80ce222516b712",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754252225757,
+          "stop" : 1754252225757,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "23414effc34f9e3.json",
+  "parameterValues" : [ ]
+}
