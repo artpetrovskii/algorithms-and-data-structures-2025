@@ -15,3 +15,9 @@ cd build/test/bst_test && ctest
 cd ../../..
 cd build/test/avl_test && ctest
 cd ../../..
+cd build/test/rb_test && ctest
+cd ../../..
+cd build/test/b_test && ctest
+cd ../../..
+cd build/test/graph_test && ctest
+cd ../../..
