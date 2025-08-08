@@ -1,0 +1,69 @@
+{
+  "uid" : "c42e5bef1e88ab2",
+  "name" : "StructureIntegrity",
+  "historyId" : "RBTreeTest:RBTreeTest#StructureIntegrity",
+  "time" : {
+    "start" : 1754663965548,
+    "stop" : 1754663965548,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RBTreeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RBTreeTest"
+  }, {
+    "name" : "package",
+    "value" : "RBTreeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "5584963d144d34e",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/14//#testresult/5584963d144d34e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754567733280,
+          "stop" : 1754567733280,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c42e5bef1e88ab2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "6c6cbdee2e3d40b7",
+  "name" : "LargeTree",
+  "historyId" : "BinaryTreeTest:BinaryTreeTest#LargeTree",
+  "time" : {
+    "start" : 1754663965506,
+    "stop" : 1754663965506,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BinaryTreeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "BinaryTreeTest"
+  }, {
+    "name" : "package",
+    "value" : "BinaryTreeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "80701f36abc375a3",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/14//#testresult/80701f36abc375a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754567733238,
+          "stop" : 1754567733238,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c68007df219dbbf",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/13//#testresult/c68007df219dbbf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754252225779,
+          "stop" : 1754252225779,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6c6cbdee2e3d40b7.json",
+  "parameterValues" : [ ]
+}
