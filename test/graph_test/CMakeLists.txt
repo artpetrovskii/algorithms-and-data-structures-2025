@@ -11,5 +11,5 @@ target_link_libraries(
 
 include(GoogleTest)
 gtest_discover_tests(graph_test
-    EXTRA_ARGS "--gtest_output=xml:../../../allure-results/xunit12.xml"
+    EXTRA_ARGS "--gtest_output=xml:../../../allure-results/xunit15.xml"
 )
