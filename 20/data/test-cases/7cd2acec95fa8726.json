@@ -1,0 +1,87 @@
+{
+  "uid" : "7cd2acec95fa8726",
+  "name" : "StructureIntegrity",
+  "historyId" : "BTreeTest:BTreeTest#StructureIntegrity",
+  "time" : {
+    "start" : 1754728002949,
+    "stop" : 1754728002949,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BTreeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "BTreeTest"
+  }, {
+    "name" : "package",
+    "value" : "BTreeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "18332ce51014344",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/19//#testresult/18332ce51014344",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754727714671,
+          "stop" : 1754727714671,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e53da879fac65aaf",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/18//#testresult/e53da879fac65aaf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754727588980,
+          "stop" : 1754727588980,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f3810403485fcee0",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/17//#testresult/f3810403485fcee0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754727306626,
+          "stop" : 1754727306626,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7cd2acec95fa8726.json",
+  "parameterValues" : [ ]
+}
