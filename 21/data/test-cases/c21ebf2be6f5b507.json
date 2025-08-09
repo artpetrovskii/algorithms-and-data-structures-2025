@@ -1,0 +1,96 @@
+{
+  "uid" : "c21ebf2be6f5b507",
+  "name" : "BasicAssertions",
+  "historyId" : "SampleTest:SampleTest#BasicAssertions",
+  "time" : {
+    "start" : 1754728161759,
+    "stop" : 1754728161759,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "SampleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "SampleTest"
+  }, {
+    "name" : "package",
+    "value" : "SampleTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "9f415f77dd72d2d2",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/20//#testresult/9f415f77dd72d2d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754728002599,
+          "stop" : 1754728002599,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "37ad853960045c62",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/19//#testresult/37ad853960045c62",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754727714290,
+          "stop" : 1754727714290,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4fc96260cc3203c2",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/18//#testresult/4fc96260cc3203c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754727588620,
+          "stop" : 1754727588620,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b1ee4691d7f776ce",
+        "reportUrl" : "https://artpetrovskii.github.io/algorithms-and-data-structures-2025/17//#testresult/b1ee4691d7f776ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1754727306268,
+          "stop" : 1754727306268,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c21ebf2be6f5b507.json",
+  "parameterValues" : [ ]
+}
