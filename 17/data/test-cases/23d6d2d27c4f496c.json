@@ -1,0 +1,49 @@
+{
+  "uid" : "23d6d2d27c4f496c",
+  "name" : "StructureIntegrity",
+  "historyId" : "RBTreeTest:RBTreeTest#StructureIntegrity",
+  "time" : {
+    "start" : 1754727306350,
+    "stop" : 1754727306350,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RBTreeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RBTreeTest"
+  }, {
+    "name" : "package",
+    "value" : "RBTreeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23d6d2d27c4f496c.json",
+  "parameterValues" : [ ]
+}
